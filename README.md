@@ -2,7 +2,7 @@
 
 ## How to play/run
 
-1. Download this folder or BOTH `Dockerfile` and `nightoftheninja-0.0.1.jar`
+1. Download this folder or BOTH `Dockerfile` and `app.jar`
 2. Navigate into the downloaded folder in terminal/cmd
 3. Copy paste & run command `docker build -t ninja:latest .` (_yes don't forget the fullstop_)
 4. Then run `docker run -p80:80 --rm ninja:latest `
